@@ -85,3 +85,24 @@ Look-ahead and look-behind allow you to match patterns based on their surroundin
 Jocelin Amaya, fully immersing myself in the multifaceted world of engineering, where I am actively seeking to master new frameworks for both problem-solving and critical analysis. Within this sphere, I'm especially drawn to the compelling overlap between machine learning and psychology. I'm eager to delve into how machine learning algorithms can be leveraged to gain new insights into human behavior, mental health, and cognitive processes.
 
 GitHub profile (https://github.com/joceamayar)
+
+
+
+
+
+## References 
+
+https://cs50.harvard.edu/python/2022/weeks/7/
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions/Character_classes
+
+https://support.workiva.com/hc/en-us/articles/4407304269204-Regular-expression-operators
+
+https://learn.microsoft.com/en-us/dotnet/standard/base-types/quantifiers-in-regular-expressions
+
+[https://docs.oracle.com/javase/tutorial/essential/regex/groups.html#:~:text=Capturing groups are a way,o" and "g"](https://docs.oracle.com/javase/tutorial/essential/regex/groups.html#:~:text=Capturing%20groups%20are%20a%20way,o%22%20and%20%22g%22%20) .
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Regular_expressions/Capturing_group
+
+ChatGPT, personal communication, September, 2023
+
